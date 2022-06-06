@@ -1,2 +1,2 @@
 # uranus
-This project is for fixing typescript data
+This project is for zilpa backend
