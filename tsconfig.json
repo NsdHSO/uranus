@@ -8,5 +8,7 @@
     ],
     "compilerOptions": {
         "outDir": "dist"
-    }
+    },
+    "noImplicitAny": false
+
 }
